@@ -1,6 +1,4 @@
 
-# <p align="center">Hi, I'm Kunal Parekh 👋</p>
-
 <p align="center">
 <img src="banner.jpg" alt="Kunal Parekh Banner" width="100%"/>
 </p>
