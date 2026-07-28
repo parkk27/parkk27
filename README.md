@@ -2,7 +2,7 @@
 # <p align="center">Hi, I'm Kunal Parekh 👋</p>
 
 <p align="center">
-<img src="images/Professional LinkedIn banner design, 1280x640px. Dark navy blue background with cyan and purple gradients. Left side_ _Kunal Parekh_ in large bold modern sans-serif font, _Principal Product Manager_ subtitle,.jpg" alt="Kunal Parekh Banner" width="100%"/>
+<img src="banner.jpg" alt="Kunal Parekh Banner" width="100%"/>
 </p>
 
 <p align="center">
