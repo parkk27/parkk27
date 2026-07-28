@@ -1,159 +1,84 @@
-# Hi, I'm Kunal Parekh 👋
-
-## Principal Product Manager | AI Platforms | Distributed Systems | Microsoft Fabric
-
-Building AI-native infrastructure products that simplify complex cloud platforms, accelerate engineering productivity, and redefine how people interact with data at scale.
-
+<p align="center">Hi, I'm Kunal Parekh 👋</p>
 <p align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://kunalparekh-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunal%20Parekh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kp27/)
-[![Microsoft](https://img.shields.io/badge/Microsoft-Principal%20Product%20Manager-0078D4?style=for-the-badge&logo=microsoft)]
-
+<img src="images/banner.png" alt="Kunal Parekh Banner" width="100%"/>
 </p>
-
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=0078D4&center=true&vCenter=true&width=900&lines=Principal+Product+Manager;AI+Infrastructure+%26+Intelligent+Platforms;Microsoft+Fabric+%7C+Distributed+Systems;Building+AI-native+Products" alt="Typing Animation"/>
+</p>
+<p align="center">
+<a href="https://kunalparekh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/></a>
+<a href="https://www.linkedin.com/in/kp27/"><img src="https://img.shields.io/badge/LinkedIn-Kunal%20Parekh-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://github.com/parkk27"><img src="https://img.shields.io/badge/GitHub-parkk27-181717?style=for-the-badge&logo=github"/></a>
+</p>
 ---
-
-# 🚀 About Me
-
-I'm a Principal Product Manager at Microsoft with 15+ years of experience building AI-powered products, cloud platforms, and distributed systems.
-
-My work spans:
-
-- AI Infrastructure
-- Microsoft Fabric
-- Spark Platforms
-- Distributed Systems
-- Data Analytics
-- GenAI
-- Copilot Experiences
-- Product Strategy
-
-I enjoy transforming highly technical infrastructure into delightful customer experiences.
-
+🚀 About Me
+I'm a Principal Product Manager at Microsoft focused on AI-enabled infrastructure, distributed systems, cloud-scale analytics platforms, and developer productivity.
+I enjoy turning complex infrastructure into intuitive products that help engineering teams build, troubleshoot, and scale faster.
+🔭 Current Focus
+🤖 AI-native Infrastructure
+⚡ Microsoft Fabric & Spark
+🧠 Agentic AI & MCP
+📊 Big Data Intelligence Hub
+🚀 Vibe Coding
+🔍 Intelligent Product Discovery
 ---
-
-# 🔭 Currently Building
-
-- 🤖 AI Product Management Agents
-- 📰 Big Data Intelligence Hub
-- ⚡ Microsoft Fabric Platform Innovations
-- 🛠 MCP-powered Engineering Productivity Tools
-- 🎓 AI Product Management Workshops
-- 🚀 Vibe Coding Experiments
-
+📈 Microsoft Impact
+Impact	Outcome
+🌍 Large-scale Analytics Platform	Led migration of one of Microsoft's largest Cosmos analytics platforms
+⚡ AI Productivity	Reduced operational incidents by 15%
+🔎 Incident Investigation	Reduced triage time by 30%
+📚 Thought Leadership	Published engineering work on Microsoft Fabric resource provisioning
 ---
-
-# 🌟 Featured AI Products
-
-| Product | Description |
-|----------|-------------|
-| 📰 Big Data Intelligence Hub | AI-powered knowledge platform tracking modern data platforms |
-| ✈️ FlyMate AI | Intelligent travel planning assistant |
-| 📈 InvestIntel | AI-powered investment planning platform |
-| 🤖 MCP Product Assistant | AI assistant for engineering productivity |
-| ⚡ Forecasting Service | AI-driven proactive Spark resource provisioning |
-| 💼 Portfolio Website | Personal portfolio showcasing AI products, talks, and publications |
-
-Portfolio:
-
-➡️ https://kunalparekh-portfolio.netlify.app/
-
+🌟 Featured AI Products
+Product	Description
+📰 Big Data Intelligence Hub	AI-powered insights for modern data platforms
+✈️ FlyMate AI	Intelligent travel planning assistant
+📈 InvestIntel	AI-powered investment planning
+🤖 MCP Product Assistant	AI assistant for engineering productivity
+⚡ Forecasting Service	Proactive Spark resource provisioning
 ---
-
-# 📈 Impact at Microsoft
-
-- 🚀 Principal Product Manager leading AI-enabled infrastructure initiatives
-- ☁️ Led migration of one of Microsoft's largest Cosmos analytics platforms
-- 📊 Platform supporting hundreds of thousands of Spark jobs daily
-- 🤖 Reduced operational incidents by **15%** through AI-powered engineering assistants
-- 🔍 Reduced incident triage time by **30%** using natural language telemetry exploration
-- ⚡ Improved Spark price-performance through intelligent resource optimization
-- 📚 Published engineering work on proactive resource provisioning for Microsoft Fabric
-
+🎤 Talks & Publications
+Talks
+AI Product Management
+Microsoft Fabric & Spark
+Building AI Products
+Vibe Coding Workshop
+Publications
+Microsoft Fabric Engineering Blog
+VLDB Research
+AI Product Management Workshop
 ---
-
-# 🎤 Featured Talks
-
-### AI Product Management
-
-- Building AI Products & Product Thinking
-
-- AI Product Management in Practice
-
-- Microsoft Fabric, Spark & AI Innovation
-
-- How to Create an Impressive Portfolio through Vibe Coding
-
+🛠 Technology Stack
+AI
+`OpenAI` • `Azure AI` • `GitHub Copilot` • `Claude` • `Gemini` • `MCP`
+Data
+`Microsoft Fabric` • `Spark` • `Synapse` • `Cosmos` • `Databricks` • `Snowflake`
+Cloud
+`Azure` • `Kubernetes` • `Containers`
+Product
+`Power BI` • `Kusto` • `Figma` • `Prompt Engineering`
 ---
-
-# 📚 Publications & Workshops
-
-- Microsoft Fabric Engineering Blog
-- VLDB Research Publication
-- AI Product Management Workshop
-- Vibe Coding Workshop
-
+📊 GitHub Stats
+> Replace `parkk27` with your username if it changes.
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parkk27&show_icons=true&rank_icon=github"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parkk27&layout=compact"/>
+</p>
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=parkk27"/>
+</p>
 ---
-
-# 🛠 Tech Stack
-
-### AI
-
-OpenAI • Azure AI • GitHub Copilot • Claude • Gemini • MCP
-
-### Data
-
-Microsoft Fabric • Spark • Synapse • Cosmos • Databricks • Snowflake • BigQuery
-
-### Cloud
-
-Azure • Kubernetes • Containers
-
-### Product
-
-Power BI • Kusto • Figma • Prompt Engineering
-
+🔬 Currently Exploring
+Autonomous Search
+Intent-based Computing
+Multi-Agent Systems
+AI Infrastructure
+Distributed Reasoning
+AI Platform Engineering
 ---
-
-# 🚀 Featured Repositories
-
-Coming soon...
-
-- Big Data Intelligence Hub
-- AI Product Toolkit
-- Portfolio Website
-- MCP Product Assistant
-- AI Learning Projects
-
+🤝 Connect
+🌐 Portfolio: https://kunalparekh-portfolio.netlify.app/
+💼 LinkedIn: https://www.linkedin.com/in/kp27/
+💻 GitHub: https://github.com/parkk27
 ---
-
-# 🔬 Currently Exploring
-
-- Autonomous Search
-- Agentic AI
-- Intent-based Computing
-- AI-native Infrastructure
-- Multi-Agent Systems
-- Distributed Reasoning
-- AI Platform Engineering
-
----
-
-# 🤝 Let's Connect
-
-🌐 Portfolio
-
-https://kunalparekh-portfolio.netlify.app/
-
-💼 LinkedIn
-
-https://www.linkedin.com/in/kp27/
-
-💻 GitHub
-
-https://github.com/parkk27
-
----
-
-> *"The future of Product Management isn't just building software—it's designing intelligent systems that reason, collaborate, and autonomously create value."*
+> *"Building intelligent infrastructure that enables the next generation of AI products."*
